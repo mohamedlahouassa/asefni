@@ -17,3 +17,4 @@ Examen du Covid 19 et c'est avec nos médecins bénévoles à travers notre plat
 Leurs appels par des médecins, dans le cas où l'un d'entre eux serait infecté par le virus<br/> ils seront contactés
 Directement avec les moyens de protection pour les relier à la personne concernée, nous travaillons à l'inclusion d'un système
 Audios dans l'application par la catégorie susmentionnée pour faciliter le processus de signalement
+ ![alt text](https://github.com/mohamedlahouassa/asefni/blob/main/Photos/app.PNG?raw=true) 
